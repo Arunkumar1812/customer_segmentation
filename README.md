@@ -112,9 +112,7 @@ Visualizes marketing campaign responses using a funnel chart.
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot below.
-
-![Dashboard](images/dashboard.png)
+<img width="1136" height="640" alt="Screenshot 2026-07-02 153314" src="https://github.com/user-attachments/assets/f2be154c-97f3-4f4d-8b9c-2acea9b2b5c8" />
 
 ---
 
